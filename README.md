@@ -1,4 +1,4 @@
-<h1 align="center">daed</h1>
+<h1 align="center">daed,旁路由出国方案</h1>
 <p align="center">
   <img width="100" src="public/logo.webp" />
 </p>
